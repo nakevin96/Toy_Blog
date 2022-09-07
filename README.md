@@ -1,2 +1,2 @@
 # Toy_Blog
-Use docker, gRPC, typescript, django, react
+Create a blog using docker, gRPC, typescript, django, react
