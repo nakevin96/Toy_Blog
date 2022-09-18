@@ -85,6 +85,7 @@ module.exports = {
     'spaced-comment': 0,
     'no-param-reassign': 0,
     'import/no-cycle': 'off',
+    'import/no-extraneous-dependencies': ['error', { devDependencies: true }],
     'function-paren-newline': 'off',
     'jsx-a11y/media-has-caption': [
       2,
